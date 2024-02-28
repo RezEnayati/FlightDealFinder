@@ -1,6 +1,6 @@
 import requests
 from notification_manager import NotificationManager
-TEQUILA_API_KEY = "58zsTXcm6O1vFhPzbcMNtTECJ-CE2BE-"
+TEQUILA_API_KEY = "Tquila API Key"
 TEQUILA_END_POINT_IATA = "https://api.tequila.kiwi.com"
 
 
