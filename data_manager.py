@@ -2,7 +2,7 @@ import requests
 from flight_search import FlightSearch
 from flight_data import FlightData
 
-SHEETY_ENDPOINT = "https://api.sheety.co/df225985c0a0ee4a404be2fbd2f2db04/flightDeals/prices"
+SHEETY_ENDPOINT = "Sheety Api"
 
 # TASK 1: read the data from the Google sheet and give us a list of the cities in the sheet
 class DataManager:
