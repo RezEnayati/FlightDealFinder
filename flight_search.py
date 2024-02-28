@@ -46,5 +46,6 @@ class FlightSearch:
                         f"to: {date_to}.")
                 self.notif_manager.send_sms(body)
             else:
-                body = "No tickets found! :("
+                body = "No tickets found! :("   
+                self.notif_manager.send_sms(body)
 
